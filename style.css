@@ -1,0 +1,19 @@
+/* DIBUAT OLEH CHRISTOPHORUS ADYATMA WAHYU SETYA NAYOTTAMA */
+/* UNIVERSITAS KRISTEN DUTA WACANA PRODI INFORMATIKA */
+
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #0b4f6c;
+}
+
+#about {
+  padding-top: 3rem;
+}
+
+#projects {
+  background-color: #b80c09;
+}
